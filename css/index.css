@@ -62,22 +62,27 @@ html.dark {
 .container .aside {
   max-width: 200px;
 }
-.button_box, .icon_box {
+.button_box,
+.icon_box,
+.search_number_list_box,
+.basic_select_modal_box,
+.search_select_box {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
 }
-.button_box .button_style_default, .icon_box .svg-icon {
+.button_box .button_style_default,
+.icon_box .svg-icon {
   margin: 0 10px 10px 0;
 }
 .button_box .menu_button_box {
   margin: 0 10px 10px 0;
 }
-.date_picker_box, .search_number_list_box, .basic_select_modal_box, .search_select_box {
+.date_picker_box {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
 }
-.date_picker_box .date_picker_class  {
+.date_picker_box .date_picker_class {
   margin-right: 10px;
 }
 .digital_range_box {
