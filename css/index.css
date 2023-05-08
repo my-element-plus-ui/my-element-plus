@@ -13,7 +13,7 @@
   background-color: var(--vp-code-block-bg);
 }
 .demo-block .t_layout_page {
-  overflow: visible;
+  /* overflow: visible; */
   padding: 0;
 }
 .demo-block .t_layout_page .t_layout_page_item {
@@ -111,4 +111,7 @@ html.dark {
 }
 .mrgl_10 {
   margin-left: 10px;
+}
+.vp-doc table {
+  margin: 0;
 }
