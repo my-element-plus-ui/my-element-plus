@@ -599,4 +599,4 @@ export default defineComponent({
   display: flex;
 }
 </style>
-`,codeStr:"%3Crender-demo-0%20",htmlStr:"%3Cpre%20class%3D%22shiki%22%20style%3D%22background-color%3A%20%23292D3E%22%3E%3Ccode%3E%3Cspan%20class%3D%22line%22%3E%3Cspan%20style%3D%22color%3A%20%23A6ACCD%22%3E%26lt%3Brender-demo-0%20%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fcode%3E%3C%2Fpre%3E",description:"",codePath:""},{description:d(()=>[I]),highlight:d(()=>[G]),default:d(()=>[B(A)]),_:1}),J])}const Z=U(j,[["render",Q]]);export{Y as __pageData,Z as default};
+`},{description:d(()=>[I]),highlight:d(()=>[G]),default:d(()=>[B(A)]),_:1}),J])}const Z=U(j,[["render",Q]]);export{Y as __pageData,Z as default};
